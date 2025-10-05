@@ -1,0 +1,10 @@
+Tic-Tac-Toe Game Log
+====================
+Board Size: 0x0
+Game Mode: Vs Computer
+Moves:
+Player 1 (X) -> 1,2
+Player 2 (O) -> 3,3
+Player 1 (X) -> 1,1
+Player 1 (X) -> 1,3
+Result: You win!
